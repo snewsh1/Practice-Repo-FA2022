@@ -1,27 +1,27 @@
-## Student Name (or name you would preferred to be called)
+## Briggs Aring 
 
 ### Spring 2023
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course
+- Introduction to Data Science
 
-- Course 2
+- Principles of Macroeconomics
 
-- Course 3
+- Computer Information Technology and Applications
 
-- Course 4
+- Environmental Science
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Relaxation
 
-- Thing 2
+- Tennis
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Business Analytics
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2023/01/22
